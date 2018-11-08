@@ -87,7 +87,7 @@ If you cannot find the name in the list, you should use the chemical name to sea
  - *ChemID Plus (https://chem.nlm.nih.gov/chemidplus/)*
  - *PubChem (https://pubchem.ncbi.nlm.nih.gov/)*
  
-*In case of industrial chemicals, the user can use some chemical supplier’s websites, e.g. Chemical Book (http://www.chemicalbook.com/), Molbase (http://www.molbase.com) or Sigma-Adritch (www.sigmaaldrich.com). In case of drug chemical, the user can search some specific drug databases e.g., Drugbank (www.drugbank.ca). Other specific databases can be used based on the chemical class.*
+*In case of industrial chemicals, the user can use some chemical supplier’s websites, e.g. Chemical Book (http://www.chemicalbook.com/), Molbase (http://www.molbase.com) or Sigma-Adritch (www.sigmaaldrich.com), ChEMBL (https://www.ebi.ac.uk/chembl/), ChemSpider (http://www.chemspider.com/). In case of drug chemical, the user can search some specific drug dartabases e.g., Drugbank (www.drugbank.ca) and ZINC (http://zinc.docking.org/). Other specific databases can be used based on the chemical class.*
 
 *WARNING: be sure that no columns are hidden in the Web Check sheet before saving it. This may lead to errors in reading the input of the following phases of the curation procedure.*
 
