@@ -1,3 +1,0 @@
-CHANGELOG:
-
-31/01/2019: Fixed a problem when creating a new separate output after manual check. Minor modifications to the user's guide.
