@@ -3,4 +3,5 @@
 08/02/2018: Fixed an error occurring when no chemicals go to the "Automated Check"
 26/03/2018: Fixed an error occuring during the calculation of molecular weight for SMILES including asterisk (*). Now MW is set to zero.
 03/07/2019: Added Zinc to metals list for identifying organometallic compounds. Thanks to DocMinus for reporting the issue.
-Modified the criterion to separate main molecules and counterions. Now the fragment with the higher number of atoms is recognized as the main molecule, not the one with the highest MW.
+03/07/2019: Modified the criterion to separate main molecules and counterions. Now the fragment with the higher number of atoms is recognized as the main molecule, not the one with the highest MW.
+03/07/2017: Added to the repository a reduced version of the workflow that accept SMILES as input and adress only the curation part. This workflow can be used if the user already has a list of SMILES.
