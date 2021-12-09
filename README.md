@@ -1,7 +1,5 @@
 # A NEW SEMI-AUTOMATED WORKFLOW FOR CHEMICAL DATA RETRIEVAL AND QUALITY CHECKING FOR MODELLING APPLICATIONS
 
-## WARNING! The EPA CompTox Chemicals Dashboard has been rebuilt and, as a consequece, the workflow is no more able to extract SMILES from the web service. We are currently working to solve the issue. In the meantime, please do not use this workflow.
-
 A semi-automated procedure is made available to support scientists in data preparation for modelling purposes. 
 The procedure address: 
 1) **Automatic chemical data retrieval** (i.e., SMILES) from different, orthogonal web based databases, by using two different identifiers, i.e. chemical name and CAS registration number. Records were scored based on the coherence of information retrieved from different web sources. 
